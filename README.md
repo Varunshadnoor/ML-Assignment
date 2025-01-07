@@ -62,6 +62,3 @@ The script prints the final parameters and cost for each gradient descent method
 - Linear Regression Fit for Stochastic Gradient Descent
 - Linear Regression Fit for Mini-Batch Gradient Descent
 
-## License
-
-This project is licensed under the MIT License.
